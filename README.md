@@ -40,5 +40,5 @@ predict_custom('your_image.png')
 To understand what frameworks like PyTorch are actually doing under the hood. Every line maps directly to the math — no black boxes.
 
 ## Dataset
-Download MNIST from: https://ossci-datasets.s3.amazonaws.com/mnist/
+Download MNIST from: [https://ossci-datasets.s3.amazonaws.com/mnist/](https://www.kaggle.com/datasets/hojjatk/mnist-dataset)
 Place the 4 ubyte files in the project root.
