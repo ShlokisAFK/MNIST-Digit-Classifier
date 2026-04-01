@@ -37,8 +37,8 @@ predict_custom('your_image.png')
 ```
 
 ## Why from scratch?
-To understand what frameworks like PyTorch are actually doing under the hood. Every line maps directly to the math — no black boxes.
+To understand what frameworks like PyTorch are actually doing under the hood. Every line maps directly to the math no black boxes.
 
 ## Dataset
-Download MNIST from: [https://ossci-datasets.s3.amazonaws.com/mnist/](https://www.kaggle.com/datasets/hojjatk/mnist-dataset)
+Download MNIST from: https://www.kaggle.com/datasets/hojjatk/mnist-dataset
 Place the 4 ubyte files in the project root.
