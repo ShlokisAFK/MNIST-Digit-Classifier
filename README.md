@@ -1,6 +1,6 @@
 # MNIST Digit Classifier — From Scratch
 
-A neural network built from scratch using only NumPy. No PyTorch, no TensorFlow, no ML frameworks — just math and matrix operations.
+A neural network built from scratch using only NumPy. No PyTorch, no TensorFlow, no ML frameworks just math and matrix operations.
 
 ## Architecture
 - Input layer: 784 neurons (28×28 pixels flattened)
